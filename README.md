@@ -15,7 +15,7 @@
 - Case study – Jaques Benveniste (irrationality of the individual researcher and lack of retractions)
 - Case study – John Ioannidis (cherry picking, academic misconduct)
 - Background – Reproducibility in AI
-...
+
 ### Recommended Reading
 #### Journalistic Articles
 1.	https://en.wikipedia.org/wiki/Replication_crisis#In_medicine
