@@ -69,6 +69,7 @@
 3.	Maddox et al. (1998), Nature (rebuttal)
 #### Ioannidis case (cherry picking, academic misconduct, political incentives?):
 1.	https://sciencebasedmedicine.org/what-the-heck-happened-to-john-ioannidis/
+2.	https://twitter.com/mendel_random/status/1308728096313536513
 #### Cold fusion:
 1.	https://forbetterscience.com/2020/12/08/cold-fusion-by-eu-commission-a-fleischmann-pons-revival/
 ### Further Reading
