@@ -40,6 +40,7 @@
 8.	Gelman A & Carlin J (2014) Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors. Perspectives on Psychological Science
 9.	Wratten L, Wilm A & Göke J (2021) Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers. Nature Methods
 10.	Hunter-Zinck et al. (2021) Ten simple rules on writing clean and reliable open-source scientific software. PLOS Computational Biology
+11.	Whalen S et al. (2021) Navigating the pitfalls of applying machine learning in genomics. Nature Reviews Genetics
 #### Videos
 1.	https://youtu.be/_ArVh3Cj9rw (Vsauce, „The Future of Reasoning”)
 2.	https://youtu.be/HZGCoVF3YvM (3Blue1Brown, “Bayes’ Theorem“)
