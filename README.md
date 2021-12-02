@@ -10,10 +10,13 @@
 - Related case study – Sally Clark
 - Statistics – Multiple testing
 - Related case study – Biomarker development
+- Practical - Code Peer Review 
 - Case study – Heart failure clinical trials (overestimation of effect sizes)
 - Case study – Oxytocin (publication bias and null results)
 - Case study – Jaques Benveniste (irrationality of the individual researcher and lack of retractions)
 - Case study – John Ioannidis (cherry picking, academic misconduct)
+- Background - Reproducibility in Bioinformatics
+- Practical - Workflow Management
 - Background – Reproducibility in AI
 
 ### Recommended Reading
