@@ -1,4 +1,7 @@
 # Reproducibility Seminar, Heidelberg University, Winter Semester 2021/22
+## Schedule
+https://docs.google.com/document/d/198dnXWq8hGa68iw2TGABAy7DT3a6k9uk66Nh-h8oi4s/edit
+
 ## Syllabus
 ### Topics
 - Background – Science as a societal endaevour
