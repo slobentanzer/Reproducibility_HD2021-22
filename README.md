@@ -1,6 +1,6 @@
 # Reproducibility Seminar, Heidelberg University, Winter Semester 2021/22
 ## Schedule
-**Note**: from 11.02.2022, the seminar is moved to 18:00h (BioQuant SR0042)
+**Note**: from 11.02.2022, the seminar is moved to 18:00h (BioQuant SR042)
 https://docs.google.com/document/d/198dnXWq8hGa68iw2TGABAy7DT3a6k9uk66Nh-h8oi4s/edit
 
 ## Syllabus
