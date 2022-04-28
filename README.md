@@ -1,5 +1,8 @@
 # Reproducibility Seminar, Heidelberg University, Winter Semester 2021/22
-Add line here
+## Schedule
+**Note**: We are back to Tue 5PM, online seminar
+
+https://docs.google.com/document/d/198dnXWq8hGa68iw2TGABAy7DT3a6k9uk66Nh-h8oi4s/edit
 
 ## Syllabus
 ### Topics
@@ -12,10 +15,13 @@ Add line here
 - Related case study – Sally Clark
 - Statistics – Multiple testing
 - Related case study – Biomarker development
+- Practical - Code Peer Review 
 - Case study – Heart failure clinical trials (overestimation of effect sizes)
 - Case study – Oxytocin (publication bias and null results)
 - Case study – Jaques Benveniste (irrationality of the individual researcher and lack of retractions)
 - Case study – John Ioannidis (cherry picking, academic misconduct)
+- Background - Reproducibility in Bioinformatics
+- Practical - Workflow Management
 - Background – Reproducibility in AI
 
 ### Recommended Reading
@@ -42,6 +48,7 @@ Add line here
 8.	Gelman A & Carlin J (2014) Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors. Perspectives on Psychological Science
 9.	Wratten L, Wilm A & Göke J (2021) Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers. Nature Methods
 10.	Hunter-Zinck et al. (2021) Ten simple rules on writing clean and reliable open-source scientific software. PLOS Computational Biology
+11.	Whalen S et al. (2021) Navigating the pitfalls of applying machine learning in genomics. Nature Reviews Genetics
 #### Videos
 1.	https://youtu.be/_ArVh3Cj9rw (Vsauce, „The Future of Reasoning”)
 2.	https://youtu.be/HZGCoVF3YvM (3Blue1Brown, “Bayes’ Theorem“)
@@ -71,6 +78,7 @@ Add line here
 3.	Maddox et al. (1998), Nature (rebuttal)
 #### Ioannidis case (cherry picking, academic misconduct, political incentives?):
 1.	https://sciencebasedmedicine.org/what-the-heck-happened-to-john-ioannidis/
+2.	https://twitter.com/mendel_random/status/1308728096313536513
 #### Cold fusion:
 1.	https://forbetterscience.com/2020/12/08/cold-fusion-by-eu-commission-a-fleischmann-pons-revival/
 ### Further Reading
