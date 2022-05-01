@@ -75,7 +75,7 @@ https://docs.google.com/document/d/198dnXWq8hGa68iw2TGABAy7DT3a6k9uk66Nh-h8oi4s/
 #### Benveniste case (homeopathic dilution of antibodies, on stubbornness, irrationality, and the sore lack of retractions):
 1.	https://www.bmj.com/content/329/7477/1290 
 2.	Davenas et al. (1988), Nature (original article)
-3.	Maddox et al. (1998), Nature (rebuttal)
+3.	Maddox et al. (1988), Nature (rebuttal)
 #### Ioannidis case (cherry picking, academic misconduct, political incentives?):
 1.	https://sciencebasedmedicine.org/what-the-heck-happened-to-john-ioannidis/
 2.	https://twitter.com/mendel_random/status/1308728096313536513
